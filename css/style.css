@@ -13,7 +13,7 @@ body {
   min-height: 100vh;
   align-items: center;
   justify-content: center;
-  background-color: #fff8dc;
+  background-image: linear-gradient(#c473c3c2, #9198e5cf);
 }
 
 .container {
@@ -22,7 +22,7 @@ body {
   text-align: center;
   border-radius: 0.5rem;
   padding: 12rem 10rem 9rem;
-  box-shadow: #43475545 0px 0px 0.25em, #5a7dbc0d 0px 0.25em 1em;
+  box-shadow: #43475545 0 0 0.2rem, #5a7dbc0d 0 0.2rem 1.1rem;
   background: linear-gradient(217deg, #ff0000b7, #ff000009 70.71%),
     linear-gradient(127deg, #00ff00c0, #00ff0000 70.71%),
     linear-gradient(336deg, #0000ffa2, #0000ff00 70.71%) #9b52b6;
@@ -47,7 +47,7 @@ body {
 .line-one,
 .line-two {
   border-radius: 0.2rem;
-  box-shadow: #32325d40 0px 2px 5px -1px, #0000004d 0px 1px 3px -1px;
+  box-shadow: #32325d40 0 0.2rem 0.5rem -1rem, #0000004d 0 0.1rem 0.3rem -0.1rem;
 }
 
 .line-one {
@@ -82,7 +82,7 @@ body {
   z-index: 10;
   margin-left: -1.5rem;
   outline-color: #781da5;
-  box-shadow: #0000001f 0px 1px 3px, #0000003d 0px 1px 2px;
+  box-shadow: #0000001f 0 0.1rem 0.3rem, #0000003d 0 0.1rem 0.2rem;
 }
 
 .text {
